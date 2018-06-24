@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - BEMSimpleLineGraph (4.1)
+  - MJSnackBar (1.0.2)
+  - ObjectMapper (3.2.0)
+  - ReachabilitySwift (3)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - BEMSimpleLineGraph
+  - MJSnackBar
+  - ReachabilitySwift (~> 3)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - BEMSimpleLineGraph
+    - MJSnackBar
+    - ObjectMapper
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  BEMSimpleLineGraph: 44fd451f27f8e9cf96f2da5bea27603093576dd1
+  MJSnackBar: ed280d1d20692abbabe6836f8004590dd9c9ab3e
+  ObjectMapper: 5cccd2de6f253eda859df8116a5a554d9769e859
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+
+PODFILE CHECKSUM: 8ca9f6452ad3a0c46b70d18db80fd73b1f0ae229
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module Pods_SmallCase {
+  umbrella header "Pods-SmallCase-umbrella.h"
+
+  export *
+  module * { export * }
+}
